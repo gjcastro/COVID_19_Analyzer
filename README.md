@@ -1,4 +1,5 @@
 This is a LabVIEW project that parses the COVID-19 data in the format provided by CSSE @ JHU
+Author: Gustavo Castro
 
 Requirements: LabVIEW 2015 (for pull requests, please maintain compatibility with this version of LabVIEW)
 

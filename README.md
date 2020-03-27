@@ -15,5 +15,6 @@ User Instructions:
 	5. Set the path for the time series file (*.csv)
 	6. Hit "Run"
 
+Remember to pull the COVID-19 data every day to have the most up-to-date plots.
 
 Distributed under GPLv3 license.
